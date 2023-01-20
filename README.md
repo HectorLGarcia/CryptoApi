@@ -3,7 +3,7 @@
 This application allows you to watch different trending cryoto's 
 View app here: https://cryptowatcher1.netlify.app/
 
-1. Git clone https://github.com/HectorLGarcia/MovieDatabase-Api.git
+1. Git clone https://github.com/HectorLGarcia/CryptoApi.git
 
 2. rm -rf .git to delete my metadata from the git.
 
